@@ -13,13 +13,13 @@ export const metadata = {
   other: {
     "twitter:image": "https://i.ibb.co/5RMWgNd/logo512.png",
     "twitter:card": "summary_image_large",
-    "twitter:url": "https://projekt-kshitij.vercel.app/",
-    "twitter:domain": "projekt-kshitij.vercel.app",
+    "twitter:url": "https://gyaansaar-ai.vercel.app/",
+    "twitter:domain": "gyaansaar-ai.vercel.app",
     "twitter:title": "GyaanSaar AI",
     "twitter:description":
       "Crafted with GyaanSaar AI — an open-source article summarizer that condenses long reads into sharp summaries using the intelligence of GPT-4.",
 
-    "og:url": "https://projekt-kshitij.vercel.app/",
+    "og:url": "https://gyaansaar-ai.vercel.app/",
     "og:type": "website",
     "og:title": "GyaanSaar AI",
     "og:description":
