@@ -1,6 +1,6 @@
 # GyaanSaar AI
 
-![Kshitij Logo](https://vf33u6a4xs.ufs.sh/f/knEGXHgaJ8qP4rsiutcQvFsDK3aLmd8jtokNYeZ26RXJUf05)
+![GyaanSaar AI Logo](https://vf33u6a4xs.ufs.sh/f/knEGXHgaJ8qP4rsiutcQvFsDK3aLmd8jtokNYeZ26RXJUf05)
 
 Welcome to GyaanSaar AI! This is an article summarizer web application powered by OpenAI's Chat GPT 4 API. Say goodbye to long hours of reading articles; let Kshitij do the summarizing for you!
 
@@ -12,7 +12,7 @@ Welcome to GyaanSaar AI! This is an article summarizer web application powered b
 
 ### Usage
 
-Visit [Project-Kshitij](https://project-kshitij.vercel.app/) and follow these simple steps:
+Visit [GyaanSaar AI](https://project-kshitij.vercel.app/) and follow these simple steps:
 
 1. Enter the URL of the article you want to summarize in the provided input field.
 2. Click on the "Summarize" button.
