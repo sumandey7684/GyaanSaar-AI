@@ -6,7 +6,7 @@ Welcome to GyaanSaar AI! This is an article summarizer web application powered b
 
 ### Features
 
-- **Article Summarization:** Input any article URL, and Kshitij will provide you with a concise summary.
+- **Article Summarization:** Input any article URL, and GyaanSaar will provide you with a concise summary.
 - **Limitations:** Please note that there is a limit of 50 requests per month due to API restrictions.
 - **Technology Stack:** Developed with Next.js 14.1.4 and Tailwind CSS for a sleek and responsive user interface. Additionally, it utilizes GSAP and Framer Motion for delightful animations and smooth transitions.
 
