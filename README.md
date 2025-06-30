@@ -2,7 +2,7 @@
 
 ![GyaanSaar AI Logo](https://vf33u6a4xs.ufs.sh/f/knEGXHgaJ8qP4rsiutcQvFsDK3aLmd8jtokNYeZ26RXJUf05)
 
-Welcome to GyaanSaar AI! This is an article summarizer web application powered by OpenAI's Chat GPT 4 API. Say goodbye to long hours of reading articles; let Kshitij do the summarizing for you!
+Welcome to GyaanSaar AI! This is an article summarizer web application powered by OpenAI's Chat GPT 4 API. Say goodbye to long hours of reading articles; let GyaanSaar do the summarizing for you!
 
 ### Features
 
